@@ -1,5 +1,5 @@
 # Next-Gen-Ai
-A project on GAN Based Image Synthesis With Text Embedding
+A project on GAN Based Image With Text Embedding
 This project implements a Text-to-image generation pipeline using Generative adversial network(GANs)
 # Project Overview
 This project implements a Text-to-Image Generation pipeline using Generative Adversarial Networks (GANs). The system generates realistic images based on textual descriptions using deep learning techniques.The goal of this project is to bridge Natural Language Processing (NLP) and Computer Vision using GAN architectures.
