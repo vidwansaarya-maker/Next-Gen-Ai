@@ -9,7 +9,7 @@ This project implements a Text-to-Image Generation pipeline using Generative Adv
  Train a GAN architecture (Generator + Discriminator)
  Evaluate image quality and training stability
 # Model Architecture
-The pipeline consists of:
+The pipeline consists of: 
 1. Text Encoder
    Converts text descriptions into embeddings
 2. Generator (GAN)
