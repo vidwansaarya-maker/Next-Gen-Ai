@@ -14,7 +14,7 @@ The pipeline consists of:
    Converts text descriptions into embeddings
 2. Generator (GAN)
    Takes noise + text embedding
-   Generates synthetic images
+   Generates  images
 3. Discriminator
    Distinguishes between real and generated images
    Ensures text-image consistency
@@ -30,7 +30,7 @@ Successfully generated images from text prompts
 Improved image quality over training epochs
 Demonstrated GAN training dynamics.
 # Notebook Link
-[https://colab.research.google.com/drive/1kuDNGNksHlyyEUkW7oukRWapNWzIMs03?usp=sharing])
+[https://colab.research.google.com/drive/1UuxlshixddQgYMmdZmNCV-ap6k7HD4b3#scrollTo=V4znhPA-kVwC)]
 
 
 
